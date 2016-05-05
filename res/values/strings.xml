@@ -264,4 +264,7 @@
     <string name="no_permission_hint">You need to allow access: </string>
     <string name="permission_call_phone">Call Phone</string>
     <string name="permission_access_external_storage">Access External Storage</string>
+
+    <string name="storage_permission_denied">Can\'t access storage</string>
+
 </resources>
